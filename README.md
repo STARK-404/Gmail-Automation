@@ -6,7 +6,11 @@ This Python script allows you to automatically send replies to specific emails u
 ## Prerequisites
 
 - Python 3 installed on your system.
-- Necessary Python libraries installed:pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib## Setup
+- Necessary Python libraries installed:
+ ```
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+  ```
+- ## Setup
 
 1. **Obtain Gmail API Credentials:**
  - Go to the [Google Cloud Console](https://console.cloud.google.com/).
